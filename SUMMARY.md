@@ -33,7 +33,3 @@
 
 * [Technical Roadmap](roadmap/technical-roadmap.md)
 * [IDO Roadmap](roadmap/ido-roadmap.md)
-
-## Partners
-
-* [Page 1](partners/page-1.md)

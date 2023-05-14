@@ -21,8 +21,3 @@ GPTX.sol is an ERC20 standard smart contract named $GPTX. The token can be used 
 | Market Cap at Launch               | <p>230,000,000 $GPTX x $0.015<br>= $3,500,000 USD (3.5 Mil)</p> | <p>23% of Fully Diluted <br>Market Cap</p> |
 | Treasury Token Supply              | 770,000,000 $GPTX (770 Mil)                                     | 77% of Total Supply                        |
 | Fully Diluted Market Cap at Launch | <p>1,000,000,000 x $0.015<br>= $15,000,000 USD (15 Mil)</p>     |                                            |
-|                                    |                                                                 |                                            |
-|                                    |                                                                 |                                            |
-|                                    |                                                                 |                                            |
-|                                    |                                                                 |                                            |
-|                                    |                                                                 |                                            |

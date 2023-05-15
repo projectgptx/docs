@@ -28,8 +28,3 @@
 * [Staking](tokenomics/staking.md)
 * [Farming](tokenomics/farming.md)
 * [Burn Mechanism](tokenomics/burn-mechanism.md)
-
-## Roadmap
-
-* [Technical Roadmap](roadmap/technical-roadmap.md)
-* [IDO Roadmap](roadmap/ido-roadmap.md)

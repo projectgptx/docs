@@ -2,7 +2,7 @@
 description: Token Metrics and Sale
 ---
 
-# Smart Contract
+# Tokenomics
 
 GPTX.sol is an ERC20 standard smart contract named $GPTX. The token can be used for any Binance Smart Chain blockchain transaction. The contract mints 1,000,000,000 GPTX tokens to the address that deploys the contract and cannot mint any more tokens after the deployment.
 

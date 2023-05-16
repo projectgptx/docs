@@ -20,11 +20,15 @@
 
 ## Token Utility
 
-* [$GPTX](token-utility/usdgptx/README.md)
-  * [Protocol](token-utility/usdgptx/protocol.md)
-  * [Marketplace](token-utility/usdgptx/marketplace.md)
-  * [Launchpad](token-utility/usdgptx/launchpad.md)
-* [Tokenomics](token-utility/tokenomics.md)
-* [Staking](token-utility/staking.md)
-* [Farming](token-utility/farming.md)
-* [Burn Mechanism](token-utility/burn-mechanism.md)
+* [$GPTX](tokenomics/usdgptx/README.md)
+  * [Protocol](tokenomics/usdgptx/protocol.md)
+  * [Marketplace](tokenomics/usdgptx/marketplace.md)
+  * [Launchpad](tokenomics/usdgptx/launchpad.md)
+* [Tokenomics](tokenomics/smart-contract.md)
+* [Staking](tokenomics/staking.md)
+* [Farming](tokenomics/farming.md)
+* [Burn Mechanism](tokenomics/burn-mechanism.md)
+
+***
+
+* [Roadmap](roadmap.md)

@@ -1,20 +1,20 @@
 # Table of contents
 
 * [What is GPTX](README.md)
-* [🧠 Introduction](introduction/README.md)
-  * [Overview](introduction/overview.md)
-  * [GPTX Layer](introduction/gptx-layer.md)
-  * [The AI Landscape](introduction/the-ai-landscape.md)
-  * [The Mission & Vision](introduction/the-mission-and-vision.md)
+* [Introduction](introduction.md)
+* [Overview](overview.md)
+* [GPTX Layer](gptx-layer.md)
+* [The AI Landscape](the-ai-landscape.md)
+* [The Mission & Vision](the-mission-and-vision.md)
 
 ## GPTX Ecosystem
 
 ***
 
-* [⛓ The Protocol](the-protocol/README.md)
-  * [GPTX Layer](the-protocol/gptx-layer.md)
-  * [Human Interactive Layer](the-protocol/human-interactive-layer.md)
-  * [Architecture](the-protocol/architecture.md)
+* [⛓ The Protocol](the-protocol.md)
+* [GPTX Layer](gptx-layer-1.md)
+* [Human Interactive Layer](human-interactive-layer.md)
+* [Architecture](architecture.md)
 * [💸 Marketplace](marketplace.md)
 * [🚀 Launchpad](launchpad.md)
 

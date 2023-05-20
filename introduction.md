@@ -1,4 +1,4 @@
-# 🧠 Introduction
+# Introduction
 
 The rapid growth of the AI space is remarkable, with innovative solutions and powerful language processing models like _GPT_, _Midjourney_ and the likes being developed for various domains and purposes. The rapid growth of the AI space has created numerous opportunities for innovation and progress.
 
